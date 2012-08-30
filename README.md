@@ -6,9 +6,9 @@ This app uses [Twilio SMS](http://twilio.com/) to accept Ikea article numbers. O
 Ikea shoppers submit articles numbers and receive product information. 
 
 ![Example of it
-working](https://raw.github.com/mauerbac/twilio-ikea-lookup/images/screenshot1.png)
+working](https://raw.github.com/mauerbac/twilio-ikea-lookup/master/images/screenshot1.png)
 ![Example of it
-working](https://raw.github.com/mauerbac/twilio-ikea-lookup/images/screenshot2.png)
+working](https://raw.github.com/mauerbac/twilio-ikea-lookup/master/images/screenshot2.png)
 
 ## Installation
 
