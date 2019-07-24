@@ -1,4 +1,4 @@
-#Kivik Locator (aka... Ikea Product Lookup)
+# Kivik Locator (aka... Ikea Product Lookup)
 
 This app uses [Twilio SMS](http://twilio.com/) to accept Ikea article numbers. Once an article number is submitted, the app returns all relevant information (name, price, location in warehouse, URL). Once the shopper is ready to pickup the items in the warehouse, the shopper texts “Done”. The app then returns all their items with their locations. <br>
 
@@ -30,6 +30,6 @@ Step-by-step on how to deploy, configure and develop this app.
 
 3) Use items.sql and users.sql to create two tables
 
-###Configuration 
+### Configuration 
 
 1) Enter Credentials in local_settings.py
