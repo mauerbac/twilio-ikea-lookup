@@ -4,7 +4,7 @@ PyJWT==0.1.2
 Werkzeug==0.8.3
 beautifulsoup4==4.1.1
 distribute==0.6.28
-httplib2==0.7.4
+httplib2==0.18.0
 mechanize==0.2.5
 twilio==3.3.10
 virtualenv==1.7.2
