@@ -1,5 +1,5 @@
 Flask==0.9
-Jinja2==2.6
+Jinja2==2.11.3
 PyJWT==0.1.2
 Werkzeug==0.8.3
 beautifulsoup4==4.1.1
